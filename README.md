@@ -2,9 +2,9 @@
   
 # 👋 Olá! Eu sou Arthur Bezerra
 
-## ☕ **Desenvolvedor Backend Java Specialist | Spring Boot Expert**
+## 🤖 **Especialista em Automação N8N | Desenvolvedor Full Stack | Integrador de Sistemas**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Java+Specialist;Spring+Boot+%26+Microservices+Expert;Full+Stack+Developer;Always+Learning+%26+Coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Especialista+em+Automa%C3%A7%C3%A3o+N8N;Desenvolvedor+Full+Stack;Integra%C3%A7%C3%B5es+%26+APIs;Solu%C3%A7%C3%B5es+para+Cl%C3%ADnicas+%26+Vendas;Always+Automating+%26+Optimizing" alt="Typing SVG" />
 
 </div>
 
@@ -23,17 +23,24 @@
 
 ---
 
-## ☕ **Especialização Java & Spring:**
+## 🤖 **Stack de Automação & Integrações:**
 
 <div align="center">
 
-### **Backend Java Stack:**
+### **Automação & No-Code:**
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+### **Backend & APIs:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Database & Infrastructure:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,12 +49,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **Frontend & Tools:**
+### **Frontend & Design:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Marketing & CRM:**
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 </div>
 
@@ -71,41 +84,107 @@
 
 ## 💻 **Expertise Técnica:**
 
-```java
-@Component
-public class ArthurBezerra {
+```javascript
+class ArthurBezerra {
+  constructor() {
+    this.name = "Arthur Bezerra";
+    this.role = "Especialista em Automação & Full Stack Developer";
+    this.location = "Natal/RN - Brasil";
     
-    @Value("${developer.name}")
-    private String name = "Arthur Bezerra";
+    this.expertise = {
+      automation: [
+        "N8N (Workflows Avançados)",
+        "APIs REST & Webhooks",
+        "Integrações Multi-plataforma",
+        "Chatbots Inteligentes",
+        "Follow-ups Automatizados"
+      ],
+      
+      development: [
+        "Full Stack (Node.js, React, Next.js)",
+        "TypeScript & JavaScript",
+        "Python para Automação",
+        "APIs RESTful",
+        "Microservices Architecture"
+      ],
+      
+      integrations: [
+        "WhatsApp (Evolution API, Baileys)",
+        "Chatwoot (CRM & Atendimento)",
+        "Meta Ads & Google Ads",
+        "Sistemas de Clínicas/Consultórios",
+        "Plataformas de Vendas & E-commerce"
+      ],
+      
+      specializations: [
+        "🏥 Automação para Clínicas Médicas/Veterinárias",
+        "💰 Funis de Vendas High-Ticket",
+        "📊 Dashboards & Relatórios Automatizados",
+        "🤖 Agentes de IA com Memória Contextual",
+        "📱 Marketing Digital & Social Media"
+      ]
+    };
     
-    @Autowired
-    private List<String> mainSkills = Arrays.asList(
-        "Java 17+", "Spring Boot", "Spring Security", 
-        "Spring Data JPA", "Microservices", "REST APIs"
-    );
-    
-    @Autowired
-    private Map<String, List<String>> technologies = Map.of(
-        "backend", Arrays.asList("Java", "Spring Boot", "PostgreSQL", "MongoDB"),
-        "frontend", Arrays.asList("React", "Next.js", "TypeScript", "Tailwind CSS"),
-        "devops", Arrays.asList("Docker", "AWS", "Git", "Maven"),
-        "tools", Arrays.asList("IntelliJ IDEA", "Postman", "DBeaver", "VS Code")
-    );
-    
-    @PostConstruct
-    public void init() {
-        System.out.println("🚀 Backend Java Developer | Spring Boot Specialist");
-        System.out.println("📍 Natal/RN - Brasil | Disponível para oportunidades");
-    }
+    this.projects = {
+      medical: "Sistemas de agendamento, prontuários e follow-up para clínicas",
+      sales: "Funis automatizados com IA para conversão de leads",
+      marketing: "Campanhas automatizadas com Meta Ads + CRM integrado"
+    };
+  }
+  
+  getAvailability() {
+    return {
+      status: "🟢 Disponível para projetos",
+      services: [
+        "Desenvolvimento de Automações N8N",
+        "Integrações de Sistemas",
+        "Desenvolvimento Full Stack",
+        "Consultoria em Automação",
+        "Soluções para Clínicas & Vendas"
+      ]
+    };
+  }
 }
+
+const developer = new ArthurBezerra();
+console.log("🚀 Transformando processos manuais em automações inteligentes!");
 ```
+
+---
+
+## 🎯 **Soluções que Desenvolvo:**
+
+<div align="center">
+
+### **🏥 Para Clínicas & Consultórios:**
+✅ Agendamento automatizado via WhatsApp  
+✅ Follow-up inteligente de pacientes  
+✅ Integração com prontuários eletrônicos  
+✅ Lembretes automáticos de consultas  
+✅ Dashboards de gestão em tempo real  
+
+### **💼 Para Vendas & Marketing:**
+✅ Funis de vendas automatizados  
+✅ Qualificação de leads com IA  
+✅ Integração Meta Ads + CRM  
+✅ Chatbots de atendimento 24/7  
+✅ Relatórios automatizados de performance  
+
+### **🔧 Integrações Especializadas:**
+✅ WhatsApp Business API  
+✅ Chatwoot + Evolution API  
+✅ Sistemas de pagamento (Stripe, Asaas)  
+✅ Google Sheets & Excel automatizados  
+✅ APIs customizadas para qualquer sistema  
+
+</div>
 
 ---
 
 ## 🌍 **Idiomas:**
 - 🇧🇷 **Português:** Nativo
 - 🇺🇸 **Inglês:** Avançado (Técnico)
-- 🇩🇪 **Alemão:** Intermediário
+- 🇩🇪 **Alemão:** Intermediário (Vocabulário Médico)
 - 🇪🇸 **Espanhol:** Avançado
 
 ---
@@ -118,26 +197,64 @@ public class ArthurBezerra {
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arthurdevsites.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584994198787)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artubss@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/birdeeagencia)
 
 </div>
 
 ---
 
-## 🎯 **Foco Atual:**
+## 🚀 **Projetos em Destaque:**
+
+<div align="center">
+
+### **🤖 Gerenciador Inteligente de Follow-Ups (N8N)**
+Sistema avançado de automação que substitui CRON por API Scheduler, reduzindo execuções desnecessárias em 80%. Integração completa com Chatwoot e memória contextual de conversas.
+
+### **🏥 Plataforma de Gestão para Clínicas Veterinárias**
+Sistema completo com agendamento, prontuário eletrônico, follow-up automatizado e integração WhatsApp para clínicas veterinárias.
+
+### **💰 Funil de Vendas High-Ticket com IA**
+Automação completa de vendas com qualificação de leads por IA, follow-ups personalizados e integração com Meta Ads e CRM.
+
+### **📊 Dashboard Automatizado de Marketing**
+Relatórios em tempo real integrando Meta Ads, Google Ads, WhatsApp e CRM em uma única plataforma.
+
+</div>
+
+---
+
+## 💡 **Diferenciais:**
+
+<div align="center">
+
+🎯 **Clean Code & Arquitetura Escalável**  
+🔄 **Integrações Complexas Simplificadas**  
+⚡ **Performance & Otimização de Recursos**  
+🧠 **IA Aplicada a Automações**  
+📈 **Foco em ROI & Resultados Mensuráveis**  
+🏥 **Experiência Sólida no Nicho Médico**  
+💼 **Especialista em Funis de Vendas**  
+
+</div>
+
+---
+
+## 🎯 **Disponível Para:**
 
 <div align="center">
   
-### **🔍 Buscando Oportunidades:**
-**Desenvolvedor Backend Java Júnior/Pleno**
+### **💼 Oportunidades:**
+**Desenvolvedor de Automações N8N | Full Stack | Integrador de Sistemas**
 
-**💼 Especialidades:**
-- ☕ **Java & Spring Boot** - Desenvolvimento de APIs REST robustas
-- 🏗️ **Arquitetura de Microservices** - Design patterns e boas práticas
-- 🔐 **Spring Security** - Autenticação e autorização JWT
-- 🗄️ **Banco de Dados** - PostgreSQL, MongoDB, Redis
-- 🚀 **DevOps** - Docker, AWS, CI/CD
+**🔧 Serviços Oferecidos:**
+- 🤖 **Desenvolvimento de Automações N8N** - Workflows complexos e eficientes
+- 🔗 **Integrações de APIs** - Conectando sistemas diversos
+- 💻 **Desenvolvimento Full Stack** - Soluções web completas
+- 🏥 **Soluções para Clínicas** - Gestão e automação médica
+- 💰 **Sistemas de Vendas** - Funis automatizados high-ticket
+- 📱 **Marketing Digital** - Automação de campanhas e CRM
 
-**📍 Modalidade:** Remoto ou Presencial em Natal/RN
+**📍 Modalidade:** Remoto | Projetos | Freela | CLT
 
 ![Profile Views](https://komarev.com/ghpvc/?username=artubss&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/artubss?label=Follow&style=social)](https://github.com/artubss)
@@ -147,5 +264,9 @@ public class ArthurBezerra {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  
+### **🌟 "Transformando processos manuais em automações inteligentes"**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Automate!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+
 </div>
